@@ -18,7 +18,7 @@ A Computer Science Student
 * 2024-2028  Bachelor of Computer Science (Computer Network And Security) With Honours, Universiti Teknologi Malaysia
 
 ### 👩‍💻Current Position
-* Student, Computer Science | Active participant in co-curriculum activities
+* Student, Computer Science | Active participant in co-curriculum activities | Activity Unit of UTM Losting Music Club
   
 
 ### 🔧Skills
