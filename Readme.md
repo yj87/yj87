@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/bd6f463b-6a15-4d7a-8543-eeb3d65812d9" alt="Sample Image" width="1000" height="400">
+<img src="https://github.com/user-attachments/assets/812f5357-470d-41b4-a9b8-39623f8544e7" alt="Sample Image" width="1000" height="200">
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ung Yii Jia
