@@ -55,6 +55,4 @@ A Computer Science Student
 
 <a href="http://www.github.com/yj87"><img src="https://github-readme-stats.vercel.app/api?username=yj87&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=a855f7&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="yj87's GitHub stats" /></a>
 
-<a href="http://www.github.com/yj87"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yj87&stroke=a855f7&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=a855f7&currStreakLabel=0f172a&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
 ### ⚡I'm secretly a CARAT💎 17
