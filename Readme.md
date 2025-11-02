@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Computer Science Student
 --------------------------
 
-"While continuing my studies at the UTM Foundation, I was introduced to coding during my course, which inspired me to begin my journey towards becoming a programmer in the future..." I am a first-year computer science (computer network and security) student at Universiti Teknologi Malaysia and passionate about coding and network security. Welcome to my profile, you are welcome to participate in my journey✨.
+"While continuing my studies at the UTM Foundation, I was introduced to coding during my course, which inspired me to begin my journey towards becoming a programmer in the future..." I am a second-year computer science (computer network and security) student at Universiti Teknologi Malaysia and passionate about coding and network security. Welcome to my profile, you are welcome to participate in my journey✨.
 
 ### 🌍Based in Skudai, Johor Bahru
 
@@ -18,7 +18,7 @@ A Computer Science Student
 * 2024-2028  Bachelor of Computer Science (Computer Network And Security) With Honours, Universiti Teknologi Malaysia
 
 ### 👩‍💻Current Position
-* Student, Computer Science | Active participant in co-curriculum activities | Activity Unit of UTM Losting Music Club
+* Student, Computer Science | Active participant in co-curriculum activities | Secretary Unit of UTM Losting Music Club
   
 
 ### 🔧Skills
@@ -34,11 +34,11 @@ A Computer Science Student
 * Digital Logic
 * Discrete Structure
 
-### 📜Certificates
-* -None-
-
+### 📜Certificates 
+*JARVIS'25 COMMITTEE
 ### 🎁Honors and Awards
 * ANUGERAH PELAJAR CEMERLANG SESI AKADEMIK 2024/2025
+* DEAN LIST 2024/2025 I
 
 ### 📑Projects
 * Online Ticket Selling System-Ticket2Go
