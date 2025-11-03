@@ -38,7 +38,7 @@ A Computer Science Student
 * JARVIS'25 COMMITTEE
 ### 🎁Honors and Awards
 * ANUGERAH PELAJAR CEMERLANG SESI AKADEMIK 2024/2025
-* DEAN LIST 2024/2025 I
+* DEAN LIST 2024/2025 SEMESTER I
 
 ### 📑Projects
 * Online Ticket Selling System-Ticket2Go
