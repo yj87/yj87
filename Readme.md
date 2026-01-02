@@ -39,6 +39,7 @@ A Computer Science Student
 ### 🎁Honors and Awards
 * ANUGERAH PELAJAR CEMERLANG SESI AKADEMIK 2024/2025
 * DEAN LIST 2024/2025 SEMESTER I
+* DEAN LIST 2024/2025 SEMESTER II
 
 ### 📑Projects
 * Online Ticket Selling System-Ticket2Go
