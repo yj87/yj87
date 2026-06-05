@@ -41,7 +41,7 @@ A Computer Science Student
 * DEAN LIST 2024/2025 SEMESTER I
 * DEAN LIST 2024/2025 SEMESTER II
 * DEAN LIST 2025/2026 SEMESTER I
-* 
+  
 ### 📑Projects
 * Online Ticket Selling System-Ticket2Go
 
