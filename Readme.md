@@ -26,15 +26,15 @@ A Computer Science Student
 
 <p align="left">
   <!-- Existing Icons -->
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="C++" /></a>
-  <a href="https://visualstudio.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
   
   <!-- Fixed Language Icons -->
-  <a href="https://oracle.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Java" /></a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PHP" /></a>
-  <a href="https://mysql.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://oracle.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP" /></a>
+  <a href="https://mysql.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
