@@ -25,8 +25,18 @@ A Computer Science Student
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <!-- Existing Icons -->
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="C++" /></a>
+  <a href="https://visualstudio.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="VS Code" /></a>
+  
+  <!-- Newly Added Icons -->
+  <a href="https://oracle.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Java" /></a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PHP" /></a>
+  <a href="https://mysql.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="MySQL" /></a>
 </p>
+
 
 ### 👩‍🏫Courses
 * Programming Technique I
