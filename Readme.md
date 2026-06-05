@@ -25,20 +25,16 @@ A Computer Science Student
 
 
 <p align="left">
-  <!-- C++ -->
-  <img src="https://shields.io" height="28" alt="C++" />
-  <!-- VS Code -->
-  <img src="https://shields.io" height="28" alt="VS Code" />
-  <!-- Java -->
-  <img src="https://shields.io" height="28" alt="Java" />
-  <!-- HTML5 -->
-  <img src="https://shields.io" height="28" alt="HTML5" />
-  <!-- CSS3 -->
-  <img src="https://shields.io" height="28" alt="CSS3" />
-  <!-- PHP -->
-  <img src="https://shields.io" height="28" alt="PHP" />
-  <!-- SQL / MySQL -->
-  <img src="https://shields.io" height="28" alt="MySQL" />
+  <!-- Existing Icons -->
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="C++" /></a>
+  <a href="https://visualstudio.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="VS Code" /></a>
+  
+  <!-- Fixed Language Icons -->
+  <a href="https://oracle.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="Java" /></a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="PHP" /></a>
+  <a href="https://mysql.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
