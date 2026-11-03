@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Computer Science Student
 --------------------------
 
-"While continuing my studies at the UTM Foundation, I was introduced to coding during my course, which inspired me to begin my journey towards becoming a programmer in the future..." I am a second-year computer science (computer network and security) student at Universiti Teknologi Malaysia and passionate about coding and network security. Welcome to my profile, you are welcome to participate in my journey✨.
+"While continuing my studies at the UTM Foundation, I was introduced to coding during my course, which inspired me to begin my journey towards becoming a programmer in the future..." I am a third-year computer science (computer network and security) student at Universiti Teknologi Malaysia and passionate about coding and network security. Welcome to my profile, you are welcome to participate in my journey✨.
 
 ### 🌍Based in Skudai, Johor Bahru
 
